@@ -1,0 +1,16 @@
+lausanne:6.3
+geneve:3.2
+nyon:4.3
+rolle:6.7
+allaman:8.4
+gimel:3.2
+versoix:3.4
+carouge:3.3
+lausanne:8.3
+geneve:2.2
+nyon:8.3
+rolle:10.7
+allaman:7.4
+gimel:5.2
+versoix:3.4
+carouge:6.3
